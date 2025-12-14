@@ -9,6 +9,9 @@ Deponuzun  temel amacı, **W-Code Dönem 3 Kodluyoruz Mobil Uygulama Atölyesi**
 
 -----
 
+<Br>
+
+
 ## 🛠️ Tamamlanan Projeler ve Odak Noktaları
 
 Şu ana kadar tamamladığınız projeler, programlamanın iki ana sütununa odaklanmıştır: **Temel Mantık (Dart)** ve **Arayüz Geliştirme (Flutter)**.
