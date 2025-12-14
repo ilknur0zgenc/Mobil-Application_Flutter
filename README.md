@@ -13,8 +13,6 @@ Deponuzun  temel amacı, **W-Code Dönem 3 Kodluyoruz Mobil Uygulama Atölyesi**
 
 Şu ana kadar tamamladığınız projeler, programlamanın iki ana sütununa odaklanmıştır: **Temel Mantık (Dart)** ve **Arayüz Geliştirme (Flutter)**.
 
-<Br>
-
 ### 1\. Dart Programlama Temelleri (Mantık)
 
 Bu aşamada geliştirdiğiniz kodlar, mobil uygulama mantığının temelini oluşturan algoritmik düşünme yeteneğinizi gösterir.
@@ -25,6 +23,8 @@ Bu aşamada geliştirdiğiniz kodlar, mobil uygulama mantığının temelini olu
 | **Fonksiyonlar ve Algoritma** | **Dikdörtgen Alanı Fonksiyonu** ( `double` parametre kullanımı). **İç İçe Fonksiyonlar** ( `carp` içinde `multiplyByTwo` ) ve döngü (Loop) mantığı ile matematiksel işlemler yapma. |
 | **Listeler ve OOP Girişi** | Listeden eleman silme ( `List.remove` metodu) ve **Nesne Yönelimli Programlamaya (OOP)** giriş yaparak basit bir **`Sekiller`** sınıfı ve **5 adet nesne** tanımlama. |
 
+<Br>
+
 ### 2\. Flutter UI ve Veri Akışı (Etkileşim)
 
 Bu bölümdeki çalışmalarınız, kullanıcıdan veri almayı, bu verileri yönetmeyi ve farklı ekranlar arasında taşımayı öğrenmeye odaklanmıştır.
@@ -33,3 +33,5 @@ Bu bölümdeki çalışmalarınız, kullanıcıdan veri almayı, bu verileri yö
 | :--- | :--- |
 | **Kişilik Anket Formu** | **`StatefulWidget`** kullanımı. Kullanıcıdan farklı türde girdi almak için **TextField, DropdownButtonFormField, Checkbox, Switch** ve **Slider** gibi etkileşimli widget'ların bir arada kullanımı. |
 | **Formdan Sonuç Sayfasına Veri Aktarımı** | Uygulamanın iki farklı ekranı arasında (Form ve Sonuç Sayfası) güvenli ve yapılandırılmış veri taşıma: <br> 1. **Veri Modeli** ( `AnketVerisi` sınıfı) oluşturma. <br> 2. **Sayfalar Arası Gezinme ve Veri Gönderme** için **`Navigator.push`** metodu kullanımı. |
+
+<Br>
