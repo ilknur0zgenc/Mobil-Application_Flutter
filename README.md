@@ -13,6 +13,8 @@ Deponuzun  temel amacı, **W-Code Dönem 3 Kodluyoruz Mobil Uygulama Atölyesi**
 
 Şu ana kadar tamamladığınız projeler, programlamanın iki ana sütununa odaklanmıştır: **Temel Mantık (Dart)** ve **Arayüz Geliştirme (Flutter)**.
 
+<Br>
+
 ### 1\. Dart Programlama Temelleri (Mantık)
 
 Bu aşamada geliştirdiğiniz kodlar, mobil uygulama mantığının temelini oluşturan algoritmik düşünme yeteneğinizi gösterir.
